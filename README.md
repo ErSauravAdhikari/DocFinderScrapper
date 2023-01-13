@@ -12,5 +12,5 @@ This scrapper was written in response to said need. This is used to create a jso
 
 ### Teammates for Hack a Week
 - Rajeev Paudel
-- Mohit Aggrawal
+- Mohit Agarwal
 - Aabhusan Aryal
